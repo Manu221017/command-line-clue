@@ -499,3 +499,4 @@ if __name__ == "__main__":
   game.create_breadcrumbs()
   print("Your mystery game has been generated!")
   print("use `cd game` and begin investigating.")
+
